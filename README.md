@@ -13,8 +13,10 @@ Case 2:
 Input : javaismyfavourite                                                                                                             
 Output : yvutsromjifea  
 --------------------------------------------------------------
+
 Program 2: LIST OUT ALL THE PRIME NUMBERS WITHIN THE GIVEN RANGE THAT 'ENDS WITH 1'
            Note : Find the Next Greatest Number of End Range that also ends with 1.
+           
 Case 1:
 Input: 
 2
