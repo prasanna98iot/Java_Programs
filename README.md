@@ -1,5 +1,5 @@
 # Java_Programs
-Here I am uploading the Java which I've Coded. 
+Here I am uploading the Java programs which I've Coded. 
 Before Executing any Java program (.java files) Please rename it as Main.java and Execute it.
 
 Program 1:  PRINTING THE CHARACTERS IN DESCENDING ORDER & REMOVING DUPLICATES.
