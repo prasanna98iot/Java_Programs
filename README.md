@@ -1,5 +1,6 @@
 # Java_Programs
 Here I am uploading the Java programs which I've Coded. 
+Please read the readme file as raw.
 Before Executing any Java program (.java files) Please rename it as Main.java and Execute it.
 
 -----------------------------------------------------------------
@@ -31,4 +32,11 @@ Input:
 Output:
 101,131,151,181,191,211 
 ----------------------------------------------------------------------------
+Program 3: COUNT REPEATING CHARACTERS - Placement Program
+
+Input: aaaaabbccc
+Output: a5b2c3
+(non repeating special case)
+Input: abcdf
+Output:abcdf
 
