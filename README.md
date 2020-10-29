@@ -1,7 +1,7 @@
 # Java_Programs
 Here I am uploading the Java which I've Coded.
 
-Program 1:  PRINT CHARACTERS IN DESCENDING ORDER
+Program 1:  PRINTING THE CHARACTERS IN DESCENDING ORDER & REMOVING DUPLICATES.
 
 Case 1:
 Input : internetofthings                                                                                                              
