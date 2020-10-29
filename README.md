@@ -40,4 +40,14 @@ Output: a5b2c3
 Input: abcdf
 Output:abcdf
 ----------------------------------------------------------------------------------
+Program-4 -CLASS OPERATIONS ON COMPLEX NUMBER (a + bi) Udemy Program - Simple Only But test case has object as parameter.
+→ OUTPUT
 
+one.real= 2.0
+one.imaginary= 2.0
+one.real= -0.5
+one.imaginary= 3.5
+number.real= 3.0
+number.imaginary= -5.0
+Kindly go through comments inside the code for detailed input & output test case.
+----------------------------------------------------------------------------------------
